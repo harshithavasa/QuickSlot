@@ -183,6 +183,11 @@ body {
   align-items: center;
 }
 
+#authWrapper > .container,
+#authWrapper > .row {
+  width: 100%;
+}
+
 #authWrapper .card {
   border-radius: 1rem;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
